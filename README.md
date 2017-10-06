@@ -2,6 +2,6 @@
 Camping website to explore/share/feedback camping experiences around the world!
 
 Demo url:
-kisslaay.herokuapp.com
+https://kisslaay.herokuapp.com
 
 Enjoy!
